@@ -1,1 +1,1 @@
-web : build/install/com.blez.bleachserver/bin/com.blez.bleachserver
+web: ./build/install/com.blez.bleachserver/bin/com.blez.bleachserver
