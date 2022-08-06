@@ -1,0 +1,1 @@
+web : build/install/com.blez.bleachserver/bin/com.blez.bleachserver
