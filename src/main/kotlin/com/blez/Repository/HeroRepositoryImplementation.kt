@@ -174,7 +174,7 @@ class HeroRepositoryImplementation : HeroRepository {
                 "Ichigo Kurosaki (Husband)",
                 "Kazui Kurosaki (Son)",
                 "Isshin Kurosaki (Father-in-law)",
-                "Masaki Kurosaki (Mother-in-law, deceased)",
+                "Masaki Kurosaki (Mother-in-law deceased)",
                 "Karin Kurosaki (Sister-in-law)",
                 "Yuzu Kurosaki (Sister-in-law)",
                 "Sora Inoue (Older Brother, deceased)"
